@@ -13,8 +13,7 @@ A minimal and customizable Pomodoro timer built with **React** and styled using 
 
 ## 🚀 Live Demo
 
-[View it on Vercel](https://your-vercel-deployment-url.vercel.app)  
-_(Replace with your actual deployment link)_
+[View it on Vercel](https://pomodoro-app-gamma-three.vercel.app/)  
 
 ## 📦 Installation & Setup
 
